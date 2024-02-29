@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "843a30dc4c405c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "88f27cbc50aed427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0219496d5ada92e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef43c7560cab14d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f40f0ffd8603c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150f73a94bf8b69b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e980f1a461127ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2cc511dc1bb63de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "a20307e12ad3c8f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1db61107444fda4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d27ae7a9524fa203",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2370f5e8d40be442",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "017603e0358a24ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bacae04dded92b1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67fbd34c2ef50055",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "153e20712eacada1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "223dae93070913bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 577.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-rich-links:Rich Links": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "f0219496d5ada92e",
+  "lastOpenFiles": [
+    "MyNote/LICENSE",
+    "MyNote/README.md",
+    "MyNote",
+    "Tang/README.md",
+    "Tang",
+    "04笔记/大唐杯/未命名/未命名.md",
+    "04笔记/大唐杯/未命名",
+    "04笔记/大唐杯/Tang/大唐杯.md",
+    "04笔记/大唐杯/5G组网部署.md",
+    "04笔记/大唐杯/objects/pack",
+    "04笔记/大唐杯/objects/info",
+    "04笔记/大唐杯/objects",
+    "04笔记/大唐杯/config",
+    "04笔记/大唐杯/HEAD",
+    "04笔记/大唐杯/refs/heads",
+    "04笔记/大唐杯/refs/tags",
+    "04笔记/大唐杯/Tang/README.md",
+    "04笔记/电波与天线/题目.md",
+    "04笔记/电波与天线/知识点.md",
+    "04笔记/串口通信.md",
+    "04笔记/Drawing 2024-01-18 21.35.47.excalidraw.md",
+    "05思维导图/未命名看板 1.md",
+    "05思维导图/1.canvas",
+    "05思维导图/未命名.canvas",
+    "05思维导图/未命名看板.md",
+    "05思维导图/Drawing 2023-12-20 20.11.49.excalidraw.md",
+    "08期末复习/数字信号处理/数字信号处理.canvas",
+    "07科技立项/工作记录本/照片/题目.png",
+    "07科技立项/工作记录本/照片/Drawing 2023-12-06 16.08.44.excalidraw.md",
+    "07科技立项/工作记录本/照片/答案.png",
+    "07科技立项/工作记录本/照片/傅里叶变换性质.png",
+    "07科技立项/工作记录本/照片/傅里叶变换公式.png",
+    "07科技立项/工作记录本/照片/常见序列.png",
+    "07科技立项/工作记录本/每周总结/15周记录总结.md",
+    "2023-11-19.md",
+    "07科技立项/工作记录本/每周总结/14周记录总结.md",
+    "07科技立项/工作记录本/每周总结/13周记录总结.md",
+    "07科技立项/工作记录本/每周总结/12周记录总结.md",
+    "07科技立项/工作记录本/每周总结/11周记录总结.md",
+    "07科技立项/工作记录本/每周总结/10周记录总结.md",
+    "07科技立项/工作记录本/每周总结/09周记录总结.md",
+    "07科技立项/工作记录本/每周总结/08周记录总结.md",
+    "07科技立项/工作记录本/每周总结/07周记录总结.md",
+    "07科技立项/工作记录本/每周总结/06周记录总结.md",
+    "07科技立项/工作记录本/立项记录本总览.canvas",
+    "07科技立项/工作记录本/照片/封面.jpg",
+    "07科技立项/工作记录本/照片/立项通知单.jpg",
+    "06问题总结/问题总结.canvas",
+    "05思维导图/backgound1.jpg",
+    "backgound1.jpg",
+    "Pasted image 20230405133825.png",
+    "模电/ALL.canvas",
+    "模电/图例/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

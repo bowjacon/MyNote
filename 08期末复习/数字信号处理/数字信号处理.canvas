@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e680f727982bf889","type":"group","x":-2560,"y":-1040,"width":880,"height":840,"label":"序列的傅里叶变换"},
+		{"id":"de718e1340dff784","type":"file","file":"07科技立项/工作记录本/照片/傅里叶变换公式.png","x":-2250,"y":-750,"width":260,"height":146},
+		{"id":"faf4d8ea5b7ad7f2","type":"file","file":"07科技立项/工作记录本/照片/常见序列.png","x":-2540,"y":-750,"width":260,"height":146},
+		{"id":"0883207e6a4fc4f6","type":"file","file":"07科技立项/工作记录本/照片/傅里叶变换性质.png","x":-1960,"y":-750,"width":260,"height":146},
+		{"id":"ddc9e29b57481c12","type":"file","file":"07科技立项/工作记录本/照片/题目.png","x":-2250,"y":-580,"width":260,"height":146},
+		{"id":"7d676cf6cdef2230","type":"file","file":"07科技立项/工作记录本/照片/答案.png","x":-2244,"y":-360,"width":249,"height":140},
+		{"id":"40fc99b5dd2e523a","type":"text","text":"<mark style=\"background: #FFB86CA6;\">序列傅里叶变换知识点</mark>","x":-2295,"y":-1020,"width":305,"height":80}
+	],
+	"edges":[
+		{"id":"16e4d182dee9ce0d","fromNode":"ddc9e29b57481c12","fromSide":"bottom","toNode":"7d676cf6cdef2230","toSide":"top"},
+		{"id":"1a958e1aa47024c5","fromNode":"40fc99b5dd2e523a","fromSide":"bottom","toNode":"faf4d8ea5b7ad7f2","toSide":"top"},
+		{"id":"c42809c7be3e6c09","fromNode":"40fc99b5dd2e523a","fromSide":"bottom","toNode":"de718e1340dff784","toSide":"top"},
+		{"id":"d7e90652492565c9","fromNode":"40fc99b5dd2e523a","fromSide":"bottom","toNode":"0883207e6a4fc4f6","toSide":"top"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0cd9d29e664f1e22","type":"file","file":"06问题总结/第六章问题/01问题.md","x":-560,"y":-580,"width":660,"height":640},
+		{"id":"22882447d1750606","type":"file","file":"06问题总结/第六章问题/02问题.md","x":-560,"y":100,"width":660,"height":820},
+		{"id":"d9f06d2553b03567","type":"file","file":"06问题总结/第六章问题/03问题.md","x":-560,"y":960,"width":660,"height":560},
+		{"id":"7b9d51121b4667a8","type":"text","text":"第六周问题总结","x":-1280,"y":920,"width":250,"height":60,"color":"6"},
+		{"id":"43d0914792ead173","x":-560,"y":1640,"width":660,"height":1173,"type":"file","file":"06问题总结/第六章问题/04问题.md"}
+	],
+	"edges":[
+		{"id":"e6ea04efc849f8ea","fromNode":"7b9d51121b4667a8","fromSide":"right","toNode":"0cd9d29e664f1e22","toSide":"left"},
+		{"id":"c530d9fa73723ec7","fromNode":"7b9d51121b4667a8","fromSide":"right","toNode":"22882447d1750606","toSide":"left"},
+		{"id":"98bf2ba556f40489","fromNode":"7b9d51121b4667a8","fromSide":"right","toNode":"d9f06d2553b03567","toSide":"left"},
+		{"id":"d60e21de7e760f35","fromNode":"7b9d51121b4667a8","fromSide":"right","toNode":"43d0914792ead173","toSide":"left"}
+	]
+}

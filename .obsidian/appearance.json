@@ -1,0 +1,12 @@
+{
+  "accentColor": "#16ca9d",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "textFontFamily": "PingFang SC",
+  "baseFontSize": 23,
+  "translucency": false,
+  "nativeMenus": true,
+  "showViewHeader": false,
+  "monospaceFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "得意黑"
+}
