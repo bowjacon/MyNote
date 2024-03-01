@@ -15,7 +15,7 @@
               "state": {
                 "file": "04笔记/大唐杯/5G组网部署.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "153e20712eacada1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,14 +147,6 @@
             }
           },
           {
-            "id": "153e20712eacada1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "223dae93070913bc",
             "type": "leaf",
             "state": {
@@ -154,11 +155,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 577.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +177,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "150f73a94bf8b69b",
+  "active": "153e20712eacada1",
   "lastOpenFiles": [
     "MyNote/README.md",
     "MyNote/LICENSE",

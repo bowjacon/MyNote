@@ -8,5 +8,6 @@
   "strictLineBreaks": false,
   "livePreview": false,
   "rightToLeft": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "defaultViewMode": "source"
 }
