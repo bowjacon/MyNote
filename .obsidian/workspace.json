@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/DT/issue1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/DT/issue1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/DT/issue1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/DT/issue1.md"
+                "file": "README.md"
               }
             }
           },
@@ -176,18 +176,20 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "150f73a94bf8b69b",
+  "active": "f8f10d74f363eb3c",
   "lastOpenFiles": [
-    "04Image/01.png",
-    "04Image",
-    "README.md",
     "Note/DT/issue1.md",
     "Image/01.png",
+    "README.md",
+    "Note/DT",
+    "Note",
+    "Note/串口通信.md",
+    "04Image/01.png",
+    "04Image",
     "MyNote/README.md",
     "MyNote/5G核心网.png",
     "Note/电波与天线/题目.md",
     "Note/电波与天线/知识点.md",
-    "Note/串口通信.md",
     "05思维导图/backgound1.jpg",
     "Readme.md",
     "新建 Markdown file.md",
@@ -202,8 +204,6 @@
     "04笔记/大唐杯/Tang/大唐杯.md",
     "04笔记/大唐杯/objects/pack",
     "04笔记/大唐杯/objects/info",
-    "04笔记/大唐杯/objects",
-    "04笔记/大唐杯/config",
     "04笔记/大唐杯/Tang/README.md",
     "04笔记/Drawing 2024-01-18 21.35.47.excalidraw.md",
     "05思维导图/未命名看板 1.md",
@@ -227,7 +227,6 @@
     "07科技立项/工作记录本/每周总结/10周记录总结.md",
     "07科技立项/工作记录本/每周总结/09周记录总结.md",
     "07科技立项/工作记录本/立项记录本总览.canvas",
-    "07科技立项/工作记录本/照片/封面.jpg",
     "06问题总结/问题总结.canvas",
     "模电/ALL.canvas",
     "模电/图例/未命名.canvas",
