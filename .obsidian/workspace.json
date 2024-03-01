@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/DT/issue1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "a20307e12ad3c8f5",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/DT/issue1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/DT/issue1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/DT/issue1.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,6 +178,9 @@
   },
   "active": "f8f10d74f363eb3c",
   "lastOpenFiles": [
+    "Note/DT/issue2.md",
+    "README.md",
+    "Note/DT/issue1.md",
     "Image/03.png",
     "Image/屏幕截图 2024-03-01 192002.png",
     "Image/02.svg",
@@ -186,9 +188,7 @@
     "Image/02.png",
     "Image/屏幕截图 2024-03-01 155848.png",
     "Image/屏幕截图 2024-03-01 155750.png",
-    "README.md",
     "Image/01.png",
-    "Note/DT/issue1.md",
     "Note/DT",
     "Note",
     "Note/串口通信.md",
@@ -198,7 +198,6 @@
     "MyNote/5G核心网.png",
     "Note/电波与天线/题目.md",
     "Note/电波与天线/知识点.md",
-    "05思维导图/backgound1.jpg",
     "Readme.md",
     "新建 Markdown file.md",
     "Image",
