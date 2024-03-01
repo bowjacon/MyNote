@@ -11,8 +11,12 @@
             "id": "f0219496d5ada92e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04笔记/大唐杯/5G组网部署.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04笔记/大唐杯/5G组网部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04笔记/大唐杯/5G组网部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04笔记/大唐杯/5G组网部署.md"
+              }
             }
           },
           {
@@ -167,10 +175,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "f0219496d5ada92e",
+  "active": "150f73a94bf8b69b",
   "lastOpenFiles": [
-    "MyNote/LICENSE",
     "MyNote/README.md",
+    "MyNote/LICENSE",
     "MyNote",
     "Tang/README.md",
     "Tang",
@@ -184,7 +192,6 @@
     "04笔记/大唐杯/config",
     "04笔记/大唐杯/HEAD",
     "04笔记/大唐杯/refs/heads",
-    "04笔记/大唐杯/refs/tags",
     "04笔记/大唐杯/Tang/README.md",
     "04笔记/电波与天线/题目.md",
     "04笔记/电波与天线/知识点.md",
