@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04笔记/大唐杯/5G组网部署.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04笔记/大唐杯/5G组网部署.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04笔记/大唐杯/5G组网部署.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04笔记/大唐杯/5G组网部署.md"
+                "file": "README.md"
               }
             }
           },
@@ -177,13 +176,21 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "153e20712eacada1",
+  "active": "f8f10d74f363eb3c",
   "lastOpenFiles": [
-    "09图片/5G核心网.png",
     "04笔记/大唐杯/5G组网部署.md",
+    "README.md",
+    "09图片/5G核心网.png",
+    "MyNote/README.md",
+    "MyNote/5G核心网.png",
+    "04笔记/电波与天线/题目.md",
+    "04笔记/电波与天线/知识点.md",
+    "04笔记/串口通信.md",
+    "05思维导图/backgound1.jpg",
+    "Readme.md",
+    "新建 Markdown file.md",
     "09图片/屏幕截图 2024-03-01 150234.png",
     "09图片",
-    "MyNote/README.md",
     "MyNote/LICENSE",
     "MyNote",
     "Tang/README.md",
@@ -197,9 +204,6 @@
     "04笔记/大唐杯/config",
     "04笔记/大唐杯/HEAD",
     "04笔记/大唐杯/Tang/README.md",
-    "04笔记/电波与天线/题目.md",
-    "04笔记/电波与天线/知识点.md",
-    "04笔记/串口通信.md",
     "04笔记/Drawing 2024-01-18 21.35.47.excalidraw.md",
     "05思维导图/未命名看板 1.md",
     "05思维导图/1.canvas",
@@ -221,14 +225,9 @@
     "07科技立项/工作记录本/每周总结/11周记录总结.md",
     "07科技立项/工作记录本/每周总结/10周记录总结.md",
     "07科技立项/工作记录本/每周总结/09周记录总结.md",
-    "07科技立项/工作记录本/每周总结/08周记录总结.md",
-    "07科技立项/工作记录本/每周总结/07周记录总结.md",
-    "07科技立项/工作记录本/每周总结/06周记录总结.md",
     "07科技立项/工作记录本/立项记录本总览.canvas",
     "07科技立项/工作记录本/照片/封面.jpg",
-    "07科技立项/工作记录本/照片/立项通知单.jpg",
     "06问题总结/问题总结.canvas",
-    "05思维导图/backgound1.jpg",
     "模电/ALL.canvas",
     "模电/图例/未命名.canvas",
     "未命名.canvas"
