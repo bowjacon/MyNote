@@ -10,5 +10,7 @@
   "rightToLeft": false,
   "showInlineTitle": false,
   "defaultViewMode": "source",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "focusNewTab": true
 }

@@ -1,10 +1,10 @@
 {
   "accentColor": "#16ca9d",
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "Willemstad",
   "textFontFamily": "PingFang SC",
   "baseFontSize": 23,
-  "translucency": false,
+  "translucency": true,
   "nativeMenus": true,
   "showViewHeader": false,
   "monospaceFontFamily": "Cascadia Mono",
