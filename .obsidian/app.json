@@ -6,7 +6,7 @@
   "smartIndentList": true,
   "spellcheck": false,
   "strictLineBreaks": false,
-  "livePreview": false,
+  "livePreview": true,
   "rightToLeft": false,
   "showInlineTitle": false,
   "defaultViewMode": "source"
