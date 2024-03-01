@@ -52,6 +52,7 @@
     <td>NG建立、NG重置、RAN配置更新、AMF配置更新、错误提示</td>
     </tr>
 </table>
+
 **NG-U接口主要功能**
 
 1.NG-U接口在NG-RAN节点和UPF之间提供非保证的用户平面PDU传送；
