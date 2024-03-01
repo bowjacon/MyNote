@@ -1,7 +1,7 @@
 
 # 5G移动通信系统
 ## 系统整体架构
-![](01.png)
+![](Image/01.png)
 1. 5GC(5G核心网)
 2. NG-RAN(5G无线接入网):gNB、ng-eNB
 5GC与NG-RAN之间通过NG接口连接；NG-RAN之间通过Xn接口连接
