@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/DT/issue2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a20307e12ad3c8f5",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/DT/issue2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/DT/issue2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/DT/issue2.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,6 +178,7 @@
   },
   "active": "f8f10d74f363eb3c",
   "lastOpenFiles": [
+    "Note/DT/issue2.md",
     "draw/Drawing 2024-03-04 21.14.45.excalidraw.md",
     "Image/05.png",
     "draw/05.png",
@@ -191,7 +191,6 @@
     "draw/03.svg",
     "draw/Drawing 2024-03-04 21.14.45.excalidraw.svg",
     "yezigongchangmanhuati.ttf",
-    "Note/DT/issue2.md",
     "draw/未命名.canvas",
     "draw",
     "Note/DT/issue3.md",
